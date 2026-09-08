@@ -1,7 +1,6 @@
 # Minor
 
-A simple Python project for heart disease prediction (or whatever your application is).  
-(You can change this title/description to better reflect your project’s scope.)
+A simple Python project for heart disease prediction  
 
 ## Table of Contents
 
